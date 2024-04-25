@@ -2,7 +2,8 @@
 
 Consumir un repositorio de monedas en java desde consola
 
-<em> # Challeger Alura Conversor de Monedas </em>
+<h1 align="center"> Challeger Oracle Alura Conversor de Monedas </h1>
+
 
 
 
