@@ -9,7 +9,7 @@ Consumir un repositorio de monedas en java desde consola
 <p align="center"> El presente proyecto tiene como finalidad realizar un programa para converir valores entre monedas de diferentes paises.
 Al elegir una opcion que se puestra en el menú por consola, se realiza la acción.</p>
 <p>***************************************************************
-<p align="center">**          Bienvenido/a al conversor de monedas             **
+<p>**          Bienvenido/a al conversor de monedas             **
 <p>** Algunos de los códigos de monedas disponibles son:        **
 <p>--------------------------------------------------------------|
 <p>| Código de moneda |   Nombre de moneda   |       País        |
@@ -37,7 +37,7 @@ Al elegir una opcion que se puestra en el menú por consola, se realiza la acci�
 <p align="center">Al seleccionar la segunda opción mostrará todas las conversiones realizadas con sus respectiva hora y fecha de las transacciones o solicitudes efectuadas.
 <p align="center">La tercera opción se encarga de terminar la ejecución del programa.
 
-<h2 align="center"> Dettales del proyecto </h2>
+<h2 align="center"> Detalles del proyecto </h2>
 <p align="center"> El lenguaje de programación utilizado es Java en su version 17, la aplicación consume un API de pago exchangerate-api.com que tiene periodo de prueba. Se utilizo la libreria externa de google GSON para el mapeo del API al objeto Java.</p>
 
 
